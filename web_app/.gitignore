@@ -1,0 +1,30 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/css/app.css
+/public/js/app.js
+
+# Ignore IDE files
+/.idea
+/.vscode
+
+# Ignore composer.lock or package-lock.json if not versioning dependencies
+# Uncomment if needed
+# /package-lock.json
+# /composer.lock
+
+# Uncomment if needed
+# /config/filesystems.php
+
+
+
+

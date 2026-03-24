@@ -1,0 +1,40 @@
+# Icones
+
+<table id="bkmrk-s.n.-name-icon-1-bui"><thead><tr><th>N°</th><th>Nom</th><th>Icone</th></tr></thead><tbody><tr><td>1</td><td>Batiment - Residentiel</td><td><img alt="Batiment - Residentiel" src="/IMIS Icon Pack/Icons - JPG/Building - Residential.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>2</td><td>Batiment - Commercial</td><td><img alt="Batiment - Commercial" src="/IMIS Icon Pack/Icons - JPG/Building - Commercial.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>3</td><td>Batiment - Mixte</td><td><img alt="Batiment - Mixte" src="/IMIS Icon Pack/Icons - JPG/Building - Mixed.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>4</td><td>Batiment - Gouvernemental</td><td><img alt="Batiment - Gouvernemental" src="/IMIS Icon Pack/Icons - JPG/Building - Government.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>5</td><td>Raccorde au reseau d'egout</td><td><img alt="Raccorde au reseau d'egout" src="/IMIS Icon Pack/Icons - JPG/Sewerage Connected.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>6</td><td>Fosse septique</td><td><img alt="Fosse septique" src="/IMIS Icon Pack/Icons - JPG/Septic Tank.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>7</td><td>Cuve de retention</td><td><img alt="Cuve de retention" src="/IMIS Icon Pack/Icons - JPG/Holding Tank.jpg" height="65px" width="auto"></td></tr>
+<tr><td>8</td><td>Fosse</td><td><img alt="Fosse" src="/IMIS Icon Pack/Icons - JPG/Pit.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>9</td><td>Confinement</td><td><img alt="Confinement" src="/IMIS Icon Pack/Icons - JPG/Containment.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>10</td><td>Non autorise</td><td><img alt="Non autorise" src="/IMIS Icon Pack/Icons - JPG/Unauthorized.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>11</td><td>KPI - Efficacite de reponse aux demandes</td><td><img alt="KPI - Efficacite de reponse aux demandes" src="/IMIS Icon Pack/Icons - JPG/KPI - Application Response Efficiency.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>12</td><td>KPI - Satisfaction des clients</td><td><img alt="KPI - Satisfaction des clients" src="/IMIS Icon Pack/Icons - JPG/KPI - Customer Satisfaction.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>13</td><td>KPI - Service conforme a l'OHS</td><td><img alt="KPI - Service conforme a l'OHS" src='/IMIS Icon Pack/Icons - JPG/KPI - Service followed by OHS.jpg' height="65px" width="auto"> </td></tr>
+<tr><td>14</td><td>Paiement / transaction financiere</td><td><img alt="Paiement / transaction financiere" src="/IMIS Icon Pack/Icons - JPG/Payment Financial Transaction.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>15</td><td>Demande de vidange</td><td><img alt="Demande de vidange" src="/IMIS Icon Pack/Icons - JPG/Emptying Appication.jpg" height="65px" width="auto"></td></tr>
+<tr><td>16</td><td>Route la plus proche du batiment</td><td><img alt="Route la plus proche du batiment" src="/IMIS Icon Pack/Icons - JPG/Nearest Road to Building.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>17</td><td>Batiment raccorde au confinement</td><td><img alt="Batiment raccorde au confinement" src="/IMIS Icon Pack/Icons - JPG/Building Connected to Containment.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>18</td><td>Confinement raccorde au batiment</td><td><img alt="Confinement raccorde au batiment" src="/IMIS Icon Pack/Icons - JPG/Containment Connected to Building.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>19</td><td>Batiments associes (plusieurs batiments raccordes au batiment principal)</td><td><img alt="Batiments associes" src="/IMIS Icon Pack/Icons - JPG/Associated Buildings.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>20</td><td>Route</td><td><img alt="Route" src="/IMIS Icon Pack/Icons - JPG/Road.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>21</td><td>Systeme d'appui a l'information en sante publique</td><td><img alt="Systeme d'appui a l'information en sante publique" src="/IMIS Icon Pack/Icons - JPG/Public Health Information Support System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>22</td><td>Systeme de gestion des informations sur les batiments</td><td><img alt="Systeme de gestion des informations sur les batiments" src="/IMIS Icon Pack/Icons - JPG/Building Information Management System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>23</td><td>Systeme de gestion des informations sur les boues de vidange KPI - Vidange sure</td><td><img alt="Systeme de gestion des informations sur les boues de vidange KPI - Vidange sure" src="/IMIS Icon Pack/Icons - JPG/Fecal Sludge Information Management System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>24</td><td>Systeme d'aide a la decision pour la gestion urbaine</td><td><img alt="Systeme d'aide a la decision pour la gestion urbaine" src="/IMIS Icon Pack/Icons - JPG/Urban Management Decision Support System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>25</td><td>Systeme d'appui a l'information sur l'approvisionnement en eau</td><td><img alt="Systeme d'appui a l'information sur l'approvisionnement en eau" src="/IMIS Icon Pack/Icons - JPG/Water Supply Information Support System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>26</td><td>Systeme d'appui a l'information sur les dechets solides</td><td><img alt="Systeme d'appui a l'information sur les dechets solides" src="/IMIS Icon Pack/Icons - JPG/Solid Waste Information Support System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>27</td><td>Systeme d'appui a la collecte de la taxe fonciere</td><td><img alt="Systeme d'appui a la collecte de la taxe fonciere" src="/IMIS Icon Pack/Icons - JPG/Property Tax Collection Support System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>28</td><td>Systeme de gestion des informations sur les branchements d'egout</td><td><img alt="Systeme de gestion des informations sur les branchements d'egout" src="/IMIS Icon Pack/Icons - JPG/Sewer Connection Information Management System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>29</td><td>Systeme de gestion des services urbains</td><td><img alt="Systeme de gestion des services urbains" src="/IMIS Icon Pack/Icons - JPG/Utility Information Management System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>30</td><td>Systeme de gestion des informations sur les toilettes communautaires / publiques (CT/PT)</td><td><img alt="Systeme de gestion des informations sur les toilettes communautaires / publiques (CT/PT)" src="/IMIS Icon Pack/Icons - JPG/Community  Public Toilet (CTPT) Information Management System.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>31</td><td>Client(s)</td><td><img alt="Client(s)" src="/IMIS Icon Pack/Icons - JPG/Customer.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>32</td><td>Centre(s) d'assistance</td><td><img alt="Centre(s) d'assistance" src="/IMIS Icon Pack/Icons - JPG/Help Desk.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>33</td><td>Utilisateur(s) final(aux)</td><td><img alt="Utilisateur(s) final(aux)" src="/IMIS Icon Pack/Icons - JPG/End Product User.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>34</td><td>Station(s) de traitement</td><td><img alt="Station(s) de traitement" src="/IMIS Icon Pack/Icons - JPG/Treatment Plant.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>35</td><td>Prestataire(s) de services</td><td><img alt="Prestataire(s) de services" src="/IMIS Icon Pack/Icons - JPG/Service Provider.jpg" height="65px" width="auto"></td></tr>
+<tr><td>36</td><td>Definir la date de vidange</td><td><img alt="Definir la date de vidange" src="/IMIS Icon Pack/Icons - JPG/Set Emptying Date.jpg" height="65px" width="auto"></td></tr>
+<tr><td>37</td><td>Details de la vidange</td><td><img alt="Details de la vidange" src="/IMIS Icon Pack/Icons - JPG/Emptying Details.jpg" height="65px" width="auto"> </td></tr>
+<tr><td>38</td><td>Details du retour d'information et de la collecte des boues</td><td><img alt="Details du retour d'information et de la collecte des boues" src="/IMIS Icon Pack/Icons - JPG/Feedback Details.jpg" height="65px" width="auto"></td></tr></tbody></table>

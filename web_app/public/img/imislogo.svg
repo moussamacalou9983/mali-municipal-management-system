@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#ffffff" />
+  <rect x="0" y="74" width="1200" height="18" fill="#e8b54a" />
+  <circle cx="190" cy="350" r="120" fill="#e8b54a" />
+  <circle cx="190" cy="350" r="92" fill="#10304f" />
+  <text x="190" y="382" fill="#ffffff" font-size="92" font-family="Segoe UI, Arial, sans-serif" font-weight="700" text-anchor="middle">M</text>
+  <text x="360" y="300" fill="#10304f" font-size="88" font-family="Segoe UI, Arial, sans-serif" font-weight="700">SGM Mali</text>
+  <text x="360" y="390" fill="#5a6f82" font-size="34" font-family="Segoe UI, Arial, sans-serif">Systeme de gestion municipale</text>
+  <text x="360" y="460" fill="#e8b54a" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Base sur IMIS</text>
+</svg>
